@@ -6,8 +6,8 @@ Os dados são armazenados **em memória**, ou seja, são perdidos ao reiniciar a
 
 ## Tecnologias
 
-- Java 17+
-- Spring Boot 3
+- Java 21+
+- Spring Boot 4.1.1
 - Bean Validation
 - Lombok
 - Swagger / OpenAPI
